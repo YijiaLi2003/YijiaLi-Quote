@@ -52,7 +52,7 @@ fun QuoteScreen(modifier: Modifier = Modifier) {
             text = quotes[quoteIndex],
             fontSize = 24.sp,
             fontWeight = FontWeight.Bold,
-            color = Color.Black,
+            color = Color.Blue,
             modifier = Modifier.padding(bottom = 16.dp)
         )
 
